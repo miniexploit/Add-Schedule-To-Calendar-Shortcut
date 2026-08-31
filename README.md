@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Apple_Shortcuts_Logo.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="100" alt="Shortcuts app icon">
+<img src="logo/logo.png" width="100" alt="Shortcuts app icon">
 
 # Add-Schedule-To-Calendar-Shortcut
 
