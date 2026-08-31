@@ -6,7 +6,7 @@
 
 **Get the Shortcut** 
 
-[V1](https://www.facebook.com/groups/nhomgianghotranhba/permalink/1975433056477230/)
+**[V1](https://www.facebook.com/groups/nhomgianghotranhba/permalink/1975433056477230/)**
 
 </div>
 
