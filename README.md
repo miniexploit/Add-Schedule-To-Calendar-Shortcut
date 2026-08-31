@@ -12,7 +12,7 @@
 
 Upload a PDF of your class schedule, and this shortcut generates it on Apple Calendar.
 
-<img src="logo/schedule_pdf.png" width="400"> <img src="logo/output_example.png" width="500">
+<img src="logo/schedule_pdf.png" width="400"> <img src="logo/output_example.png" width="520">
 
 ## Setup
 
