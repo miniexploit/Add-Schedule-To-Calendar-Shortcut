@@ -14,6 +14,8 @@ Upload a PDF of your class schedule, and this shortcut generates it on Apple Cal
 
 <img src="logo/output_example.png" width="600" alt="schedule in calendar">
 
+<img src="logo/schedule_pdf.png" width="300"> <img src="logo/output_example.png" width="300">
+
 ## Setup
 
 1. **Get a free Gemini API key** at [Google AI Studio](https://aistudio.google.com/apikey).
