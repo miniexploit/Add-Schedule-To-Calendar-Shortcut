@@ -2,7 +2,7 @@
 
 <img src="logo/logo.png" width="100" alt="Shortcuts app icon">
 
-# Add-Schedule-To-Calendar-Shortcut
+# Add Schedule To Calendar Shortcut
 
 **Get the Shortcut** 
 
