@@ -12,6 +12,8 @@
 
 Upload a PDF of your class schedule, and this shortcut generates it on Apple Calendar.
 
+<img src="logo/output_example.png" width="300" alt="schedule in calendar">
+
 ## Setup
 
 1. **Get a free Gemini API key** at [Google AI Studio](https://aistudio.google.com/apikey).
