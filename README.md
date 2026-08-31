@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://developer.apple.com/design/human-interface-guidelines/foundations/app-icons/images/AppIconIntro-Shortcuts.png" width="100" alt="Shortcuts app icon">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Apple_Shortcuts_Logo.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="100" alt="Shortcuts app icon">
 
 # Add-Schedule-To-Calendar-Shortcut
 
 **Get the Shortcut** 
+
 [V1](https://www.facebook.com/groups/nhomgianghotranhba/permalink/1975433056477230/)
 
 </div>
